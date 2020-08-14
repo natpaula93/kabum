@@ -1,4 +1,4 @@
-## Este é um proejeto de testes automatizado para validar a funcionalidade de login do e-commerce Kabum
+## Este é um projeto de testes automatizado para validar a funcionalidade de login do e-commerce Kabum
 ## O projeto está escrito em linguaguem ruby, utlizando o framework capybara e o conjuto de componentes seleniumweb-driver, cucumber e desenvolvido no padrão Page Objects.
 
 ## PRÉ REQUISITOS:
