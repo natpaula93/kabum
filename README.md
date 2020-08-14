@@ -6,6 +6,6 @@
 
 ## COMO EXECUTAR:
 
-### Acesse a pasta raiz do projeto no prompt de comando e execute 'bundle install' no protp
+### Acesse a pasta raiz do projeto no prompt de comando e execute 'bundle install' 
 ### Ainda no prompt de comando executer o comando 'cucumber'
 
