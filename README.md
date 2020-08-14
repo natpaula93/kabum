@@ -7,5 +7,5 @@
 ## COMO EXECUTAR:
 
 ### Acesse a pasta raiz do projeto no prompt de comando e execute 'bundle install' 
-### Ainda no prompt de comando executer o comando 'cucumber'
+### Ainda no prompt de comando execute o comando 'cucumber'
 
